@@ -1,80 +1,81 @@
-# Privacy Policy
+# Privacy Policy for Unhook
 
-**Effective Date:** September 13, 2026
+**Last updated: September 13, 2026**
 
-Unhook is developed and published by **MohLabs LLC** ("we," "us," or "our").
+This Privacy Policy describes how **MohLabs LLC** ("we", "us", or "our") handles information in connection with the **Unhook** mobile application ("the App"). By installing or using the App, you agree to the practices described in this policy.
 
-Unhook is a private, offline-first habit-recovery companion designed to help you track streaks, manage triggers, and understand your personal progress.
+## 1. Our Privacy Promise
 
-Your privacy is important to us. Unhook is designed so that your personal information and app data remain under your control.
+Unhook is built **privacy-first**. The App is designed to work **entirely offline** and to keep your personal data **on your device**. We do not require you to create an account, sign in, or provide any personal information to use the App.
 
-## 1. Information We Collect
+## 2. Information We Do Not Collect
 
-Unhook does not collect, transmit, or sell personal information.
+We do **not** collect, receive, transmit, or store any of the following:
 
-The App does not require an account, email address, phone number, or personal identification to function.
+- Your name, email address, phone number, or any contact details
+- Your streaks, trigger logs, journal notes, or any other data you enter into the App
+- Your location or GPS data
+- Your device identifiers
+- Your usage or analytics data
+- Cookies or similar tracking technologies
 
-## 2. Local Data Storage
+The App makes **no network requests** to our servers and does **not** transmit your data to any third party.
 
-All data created within Unhook, including:
+## 3. Where Your Data Lives
 
-* Streaks and streak history
-* Trigger and relapse logs
-* Journal entries
-* Categories and preferences
-* Analytics and progress information
-* PIN lock settings
-* Backup data
+All data you create in the App — including streaks, triggers, categories, notes, and settings — is stored **locally on your device** using on-device storage. Your data never leaves your device unless **you** explicitly choose to export or share it.
 
-is stored locally on your device.
+## 4. Data You Choose to Export or Share
 
-## 3. No External Database or Server Storage
+The App allows you to:
 
-MohLabs LLC does not store any user information in an external database, cloud database, or remote server.
+- Export your insights as a **PDF**
+- Export or import your data as a **CSV backup**
+- Share your streak or insights using your device's native **share sheet**
 
-Unhook does not maintain user profiles or databases containing personal information.
+When you use these features, the App uses your device's built-in sharing and file-saving tools. **You decide** where the data goes (e.g., another app, a file, a contact). MohLabs LLC never receives this data.
 
-Unhook does not transmit your personal information or app data to MohLabs LLC, external databases, cloud services, or remote servers.
+## 5. Third-Party Services
 
-Your data is never uploaded to our servers.
+The App does **not** integrate with any third-party analytics, advertising, or tracking services. There are no ads in the App.
 
-## 4. Data Sharing
+## 6. Children's Privacy
 
-Unhook does not share your personal data with third parties.
+The App is not directed to children under 13, and we do not knowingly collect data from children. Because we do not collect any personal data, no parental action is required.
 
-MohLabs LLC does not sell, rent, or distribute user information.
+## 7. Data Retention and Deletion
 
-## 5. Analytics and Tracking
+Because your data is stored only on your device, **you control it entirely**:
 
-Unhook does not use third-party analytics, advertising trackers, or behavioral tracking services to collect information about you.
+- To delete individual entries, use the in-app delete options.
+- To remove all data at once, use the **Data Cleanup** feature in Settings.
+- Uninstalling the App will also remove all locally stored data from your device.
 
-## 6. Data Export and Backup
+We do not retain any copy of your data because we never receive it.
 
-Unhook may provide optional local export and backup features.
+## 8. Security
 
-Any exported files or backups are created by you and remain under your control. You are responsible for storing and managing exported files securely.
+Your data stays under your physical control on your device. The App offers an optional **PIN lock** to help prevent casual access by someone else who has your device. We recommend using your device's built-in screen lock and encryption for full protection.
 
-## 7. Data Deletion
+## 9. Health and Wellness Disclaimer
 
-You can delete your locally stored app data using the deletion and cleanup features available within the App.
+Unhook is a **self-improvement and wellness tool** for tracking habits and triggers. It is **not** a medical device, mental-health treatment, or substitute for professional care. The App does not diagnose, treat, or cure any condition, and makes no medical claims. We do not collect any health data.
 
-Uninstalling the App may also remove locally stored data depending on your device's operating system and backup settings.
+## 10. Changes to This Policy
 
-## 8. Children's Privacy
+We may update this Privacy Policy from time to time. When material changes are made, the updated date at the top of this document will reflect the change. Continued use of the App after an update constitutes acceptance of the revised policy.
 
-Unhook does not knowingly collect personal information from children or adults because the App does not collect or transmit personal information.
+## 11. Your Rights
 
-## 9. Changes to This Privacy Policy
+Since we do not collect or process any personal data, there is no personal data of yours for us to access, correct, export, or delete on our end. All of your data remains in your direct control on your device at all times.
 
-We may update this Privacy Policy from time to time. Any changes will be reflected in the updated version of this document.
+## 12. Contact Us
 
-## 10. Contact
+If you have any questions about this Privacy Policy or the App, you can contact us:
 
-If you have questions about this Privacy Policy or Unhook, please contact MohLabs LLC.
-
-**MohLabs LLC**
-Email: [mohlabsdeveloper@yahoo.com](mailto:mohlabsdeveloper@yahoo.com)
+- **Company:** MohLabs LLC
+- **Email:** mohlabsdeveloper@yahoo.com
 
 ---
 
-**Unhook is developed by MohLabs LLC with privacy first: your data stays on your device, and nothing about you is stored in an external database.**
+By using Unhook, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
