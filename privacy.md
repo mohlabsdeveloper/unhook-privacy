@@ -1,12 +1,12 @@
-# Privacy Policy for Unhook
+# Privacy Policy for FreeStep: Break Bad Habits
 
 **Last updated: September 13, 2026**
 
-This Privacy Policy describes how **MohLabs LLC** ("we", "us", or "our") handles information in connection with the **Unhook** mobile application ("the App"). By installing or using the App, you agree to the practices described in this policy.
+This Privacy Policy describes how **MohLabs LLC** ("we", "us", or "our") handles information in connection with the **FreeStep: Break Bad Habits** mobile application ("the App"). By installing or using the App, you agree to the practices described in this policy.
 
 ## 1. Our Privacy Promise
 
-Unhook is built **privacy-first**. The App is designed to work **entirely offline** and to keep your personal data **on your device**. We do not require you to create an account, sign in, or provide any personal information to use the App.
+FreeStep: Break Bad Habits is built **privacy-first**. The App is designed to work **entirely offline** and to keep your personal data **on your device**. We do not require you to create an account, sign in, or provide any personal information to use the App.
 
 ## 2. Information We Do Not Collect
 
@@ -59,7 +59,7 @@ Your data stays under your physical control on your device. The App offers an op
 
 ## 9. Health and Wellness Disclaimer
 
-Unhook is a **self-improvement and wellness tool** for tracking habits and triggers. It is **not** a medical device, mental-health treatment, or substitute for professional care. The App does not diagnose, treat, or cure any condition, and makes no medical claims. We do not collect any health data.
+FreeStep: Break Bad Habits is a **self-improvement and wellness tool** for tracking habits and triggers. It is **not** a medical device, mental-health treatment, or substitute for professional care. The App does not diagnose, treat, or cure any condition, and makes no medical claims. We do not collect any health data.
 
 ## 10. Changes to This Policy
 
@@ -78,4 +78,4 @@ If you have any questions about this Privacy Policy or the App, you can contact 
 
 ---
 
-By using Unhook, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
+By using FreeStep: Break Bad Habits, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
